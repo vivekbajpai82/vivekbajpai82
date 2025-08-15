@@ -69,6 +69,12 @@ Enthusiastic Computer Science undergraduate with a passion for problem-solving a
 - Solved 450+ problems on LeetCode
 
 ---
+## 📈 GitHub Contributions
+
+![Vivek's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=vivekbajpai82&theme=radical&hide_border=false)
+
+
+---
 
 ## 📊 GitHub Stats
 
