@@ -1,4 +1,5 @@
 <div id ="header" align="center"><img src ="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></div>
+<div id ="header" align="center"><img src ="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100"/></div>
 
 # Hi there 👋, I'm **Vivek Bajpai**
 
