@@ -10,15 +10,6 @@
 ## 🎯 Career Objective
 Enthusiastic Computer Science undergraduate with a passion for problem-solving and full-stack development, seeking opportunities to apply my skills in real-world applications.
 
----
-
-## 🎓 Education
-
-| Year | Degree | Institution | Percentage |
-|------|--------|-------------|------------|
-| 2022-2026 | B.Tech in Computer Science & Engineering | Dr. A. P. J. Abdul Kalam Technical University | 73.8% (Till 5th Sem) |
-| 2020-2022 | Intermediate - CBSE Science | Bakshi Memorial Public School | 75.6% |
-| 2019-2020 | High School - CBSE | Bakshi Memorial Public School | 76.4% |
 
 ---
 
