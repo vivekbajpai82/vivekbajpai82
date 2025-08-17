@@ -12,7 +12,7 @@
 ---
 
 ## 🎯 Career Objective
-Enthusiastic Computer Science undergraduate with a passion for problem-solving and full-stack development, seeking opportunities to apply my skills in real-world applications.
+Passionate Computer Science undergraduate with strong foundation in software development, data structures, and full-stack technologies. Seeking a Software Engineer role to contribute to innovative software solutions while leveraging problem-solving skills and technical expertise in modern development frameworks.
 
 
 ---
